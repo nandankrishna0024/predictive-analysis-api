@@ -20,7 +20,7 @@ This API predicts machine downtime using a simple Logistic Regression model trai
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/nandankrishna0024/predictive-analysis-api.git
+   git clone https://github.com/your-repo/predictive-analysis-api.git
    cd predictive-analysis-api
    ```
 2. Install dependencies:
